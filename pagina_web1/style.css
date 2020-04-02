@@ -1,0 +1,12 @@
+body,html {
+	background: #E2D0C4;
+}
+h1 {
+  color: green;
+  font-size: 40px;
+  }
+  
+p{
+	font-style: italic;
+	color: red; 
+}
